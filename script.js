@@ -42,7 +42,7 @@ pilihan.forEach(function (pil) {
 
 
 
-
+// di bawah ini cara panjang
 
 // const pGajah = document.querySelector('.gajah');
 // pGajah.addEventListener('click', function () {
